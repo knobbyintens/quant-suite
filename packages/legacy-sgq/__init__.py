@@ -1,0 +1,1 @@
+"""QuantSuite archived SGQ prototype."""
